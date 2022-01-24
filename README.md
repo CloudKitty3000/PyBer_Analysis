@@ -7,10 +7,9 @@ The purpose of this project was to sort, vizualize, and analyze the performance 
 ## Results
 
 The dataframe we created gives us plenty of data to draw conclusions.  We are able to determine that Urban cities generate the most rides and total fares by a considerable amount.  Suburban is the next highest in those categories followed by Rural cities. Urban areas also have the most drivers followed by the Suburban cities then the Rural cities. The urban cities are also so heavily saturated by drivers, the average fare per ride and fare per driver are much lower than the other 2 categories.  
-![](https://github.com/CloudKitty3000/PyBer_Analysis/blob/main/Resources/PyBer_Dataframe.png)
 
 By referencing the below line plot, we are also able to determine the total fares never intersect.  The urban cities are always the highest grossing, followed by suburban, then rural.  Each city type does have an overall positive growth which shows the company is growing, and there is a high volume spike towards the end of February for each city type.  
-![](https://github.com/CloudKitty3000/PyBer_Analysis/blob/main/Resources/Total_Fare_Graph.png)
+![](https://github.com/CloudKitty3000/PyBer_Analysis/main/Resources/PyBer_fare_summary.png)
 
 ## Recommendations
 
